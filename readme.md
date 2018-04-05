@@ -1,6 +1,6 @@
 # Knex Query Builder API
 
-Setup a table with the following structure:
+Setup tables with the following structure:
 
 ![IMG](https://gyazo.com/9cc4a885510a54d6b0def17dc5248df3.png)
 
